@@ -1,0 +1,11 @@
+{
+  "name": "tic-tac-toe-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Lucasbr2k14/tic-tac-toe-server.git",
+  "license": "GLP3",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.5.3"
+  }
+}
